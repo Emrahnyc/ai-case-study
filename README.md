@@ -1,5 +1,5 @@
 # ai-case-study
-AI Case Study for Nvidia
+
 #NVIDIA | AI Solutions for Enterprises
 
 Nvidia is a technology company that designs and manufactures graphics processing units (GPUs) and application programming interfaces. Nvidia is dominating the tech market in many fields of Artificial Intelligence and computing. 
