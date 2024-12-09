@@ -1,21 +1,21 @@
 # ai-case-study
-
+AI Case Study for Nvidia
 #NVIDIA | AI Solutions for Enterprises
 
 Nvidia is a technology company that designs and manufactures graphics processing units (GPUs) and application programming interfaces. Nvidia is dominating the tech market in many fields of Artificial Intelligence and computing. 
 
-##Overview
+## Overview
 
-Founded on April 5th, 1993, by Jensen Huang, Chris Malachowsky, and Curtis Prime.
-Originally named NVision, their name was later changed to Nvidia Corporation.
-Headquartered in Santa Clara, California, and incorporated in Delaware.
-Founded as a graphic processing company, Founders envisioned bringing 3D graphics to the gaming and multimedia markets.
-The founders invested $40,000 to start the company, which received $20M in venture capital funding from Sequoia Capital, Sutter Hill Ventures, and others.
+- Founded on April 5th, 1993, by Jensen Huang, Chris Malachowsky, and Curtis Prime.
+- Originally named NVision, their name was later changed to Nvidia Corporation.
+- Headquartered in Santa Clara, California, and incorporated in Delaware.
+- Founded as a graphic processing company, Founders envisioned bringing 3D graphics to the gaming and multimedia markets.
+- The founders invested $40,000 to start the company, which received $20M in venture capital funding from Sequoia Capital, Sutter Hill Ventures, and others.
 
 
-##Business Activities
+## Business Activities
 
-#Challenges
+# Challenges
 
 Nvidia dominates the AI Chip market in the industry today. Their emerging challenge is demand is much bigger than supply. 
 
@@ -28,7 +28,7 @@ Skeptical Buy-Side Analysts: Analysts are not convinced by the current valuation
 
 
 
-#Customer Profile 
+# Customer Profile 
 
 Nvidia’s intended customers profile are tech companies in various fields.
 Microsoft and Meta are the two biggest customers. Other major clients are Google and Amazon, which each purchased 50,000 Nvidia AI chips in 2023.
@@ -37,7 +37,7 @@ TESLA is one of Nvidia’s major clients.EV maker uses AI computing to train bot
 
 
 
-#Technology
+# Technology
 
 It is an optimized environment for running the Deep Learning, Data Science, and HPC containers available from NVIDIA's NGC Catalog. The Docker containers available on the NGC Catalog are tuned, tested, and certified by NVIDIA to take full advantage of NVIDIA Ampere, Volta, and Turing Tensor Cores, the driving force behind artificial intelligence. Deep Learning, Data Science, and HPC containers from the NGC Catalog require this AMI for the best GPU acceleration on AWS P4D, P3, and G4 instances.
 NVIDIA Deep Learning AMI is a tool in the Machine Learning Tools category of a tech stack
@@ -47,25 +47,25 @@ NVIDIA accelerates innovation by eliminating the complex do-it-yourself task of 
 Optimized for highest performance across a wide range of workloads on NVIDIA GPUs
 
 
-##Landscape
+## Landscape
 
-#Fields
+# Fields
 
 The company is in many fields; 
-Automotive, Nvidia powers 30 top automotive vehicle data centers
-AI Factories: More than 40,000 AI factories use Nvidia products
-Robotics: 1.3 Million developers use Nvidia Jetsons
-Healthcare: Monadi Framework is used for AI in medical imaging.
-Gaming: More than 200 Million gamers and creators use Nvidia’s GPU.
+- **Automotive** , Nvidia powers 30 top automotive vehicle data centers
+- **AI Factories** More than 40,000 AI factories use Nvidia products
+- **Robotics** 1.3 Million developers use Nvidia Jetsons
+- **Healthcare** Monadi Framework is used for AI in medical imaging.
+- **Gaming** More than 200 Million gamers and creators use Nvidia’s GPU.
 
 
-#Innovations
+# Innovations
 
-Omniverse 2022: The platform for developing OpenUSD applications for industrial digitalization and physical AI simulation.
-Nvidia RTX, 2018: technology is computer graphics, ushering in a new generation of applications that simulate the physical world at unprecedented speeds.
-AI, 2012: transform any enterprise into an AI organization with full-stack innovation across accelerated infrastructure, enterprise-grade software, and AI models.
+* Omniverse 2022: The platform for developing OpenUSD applications for industrial digitalization and physical AI simulation.
+* Nvidia RTX, 2018: technology is computer graphics, ushering in a new generation of applications that simulate the physical world at unprecedented speeds.
+* AI, 2012 : transform any enterprise into an AI organization with full-stack innovation across accelerated infrastructure, enterprise-grade software, and AI models.
 
-#Competitors
+# Competitors
 
 Advanced Micro Devices AMD, Intel, Alphabet, and Apple are the major competitors of Nvidia. 
 
@@ -85,8 +85,8 @@ Nvidia has the infrastructure and technology can provide AI-driven solutions to 
 
 ## Resources
 
-www.nvidia.com
-https://blogs.nvidia.com/
-https://nvidianews.nvidia.com/
-https://en.wikipedia.org/wiki/Nvidia
-https://stackshare.io/nvidia-deep-learning-ami
+- www.nvidia.com
+- https://blogs.nvidia.com/
+- https://nvidianews.nvidia.com/
+- https://en.wikipedia.org/wiki/Nvidia
+- https://stackshare.io/nvidia-deep-learning-ami
