@@ -1,6 +1,6 @@
 
 <p align ="center">
-<img src="https://blog.adobe.com/en/publish/2020/05/14/media_1acd5784ccb9c7f8e6216341e21cf25eb9b3f715f.png?width=2000&format=webply&optimize=medium" width="300">
+<img src="https://blog.adobe.com/en/publish/2020/05/14/media_1acd5784ccb9c7f8e6216341e21cf25eb9b3f715f.png?width=2000&format=webply&optimize=medium" width="1000">
 
 
 # NVIDIA | AI Solutions for Enterprises
