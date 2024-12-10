@@ -49,7 +49,7 @@ TESLA is one of Nvidia’s major clients.EV maker uses AI computing to train bot
 
 ## Landscape
 
-### [Fields] (https://www.nvidia.com/en-us/industries/)
+### [Fields](https://www.nvidia.com/en-us/industries/)
 
 The company is in many fields; 
 - **Automotive** , Nvidia powers 30 top automotive vehicle data centers
@@ -61,9 +61,9 @@ The company is in many fields;
 
 ### Innovations
 
-* >Omniverse 2022: The platform for developing OpenUSD applications for industrial digitalization and physical AI simulation.
-* >Nvidia RTX, 2018: technology is computer graphics, ushering in a new generation of applications that simulate the physical world at unprecedented speeds.
-* >AI, 2012 : transform any enterprise into an AI organization with full-stack innovation across accelerated infrastructure, enterprise-grade software, and AI models.
+* Omniverse 2022: The platform for developing OpenUSD applications for industrial digitalization and physical AI simulation.
+* Nvidia RTX, 2018: technology is computer graphics, ushering in a new generation of applications that simulate the physical world at unprecedented speeds.
+* AI, 2012 : transform any enterprise into an AI organization with full-stack innovation across accelerated infrastructure, enterprise-grade software, and AI models.
 
 ### Competitors
 
