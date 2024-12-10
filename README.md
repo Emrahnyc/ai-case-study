@@ -53,11 +53,11 @@ The remaining 60% of Nvidia’s business are cloud service providers, including 
 ### [Fields](https://www.nvidia.com/en-us/industries/)
 
 The company is in many fields; 
-- * Automotive , Nvidia powers 30 top automotive vehicle data centers
-- * AI Factories More than 40,000 AI factories use Nvidia products
-- * Robotics 1.3 Million developers use Nvidia Jetsons
-- * Healthcare Monadi Framework is used for AI in medical imaging.
-- * Gaming More than 200 Million gamers and creators use Nvidia’s GPU.
+* Automotive , Nvidia powers 30 top automotive vehicle data centers
+* AI Factories More than 40,000 AI factories use Nvidia products
+* Robotics 1.3 Million developers use Nvidia Jetsons
+* Healthcare Monadi Framework is used for AI in medical imaging.
+* Gaming More than 200 Million gamers and creators use Nvidia’s GPU.
 
 
 ### Innovations
