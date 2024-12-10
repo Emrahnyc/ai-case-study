@@ -1,8 +1,10 @@
 # ai-case-study
-AI Case Study for Nvidia
+< p align="center">
+<a href="https://www.google.com/imgres?q=nvidia&imgurl=https%3A%2F%2Fwww.nvidia.com%2Fcontent%2FnvidiaGDC%2Fus%2Fen_US%2Fabout-nvidia%2Flegal-info%2Flogo-brand-usage%2F_jcr_content%2Froot%2Fresponsivegrid%2Fnv_container_392921705%2Fnv_container_412055486%2Fnv_image.coreimg.100.1070.png%2F1703060329095%2Fnvidia-logo-horz.png&imgrefurl=https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fabout-nvidia%2Flegal-info%2Flogo-brand-usage%2F&docid=K1gbMi6tKl81mM&tbnid=z8WseUADs_eRSM&vet=12ahUKEwiUpt-OpJyKAxVMD1kFHa2gO7MQM3oECB0QAA..i&w=1070&h=601&hcb=2&ved=2ahUKEwiUpt-OpJyKAxVMD1kFHa2gO7MQM3oECB0QAA">
+
 #NVIDIA | AI Solutions for Enterprises
 
-[<Nvidia>](<https://www.nvidia.com/en-us/>) is a technology company that designs and manufactures graphics processing units (GPUs) and application programming interfaces. Nvidia is dominating the tech market in many fields of Artificial Intelligence and computing. 
+Nvidia is a technology company that designs and manufactures graphics processing units (GPUs) and application programming interfaces. Nvidia is dominating the tech market in many fields of Artificial Intelligence and computing. 
 
 ## Overview
 
