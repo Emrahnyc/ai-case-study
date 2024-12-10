@@ -2,7 +2,7 @@
 AI Case Study for Nvidia
 #NVIDIA | AI Solutions for Enterprises
 
-[<Nvidia>] (<https://www.nvidia.com/en-us/>) is a technology company that designs and manufactures graphics processing units (GPUs) and application programming interfaces. Nvidia is dominating the tech market in many fields of Artificial Intelligence and computing. 
+[<Nvidia>](<https://www.nvidia.com/en-us/>) is a technology company that designs and manufactures graphics processing units (GPUs) and application programming interfaces. Nvidia is dominating the tech market in many fields of Artificial Intelligence and computing. 
 
 ## Overview
 
@@ -15,7 +15,7 @@ AI Case Study for Nvidia
 
 ## Business Activities
 
-# Challenges
+## Challenges
 
 Nvidia dominates the AI Chip market in the industry today. Their emerging challenge is demand is much bigger than supply. 
 
