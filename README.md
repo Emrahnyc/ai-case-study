@@ -1,9 +1,9 @@
 # ai-case-study
 
 
-NVIDIA | AI Solutions for Enterprises
+**NVIDIA | AI Solutions for Enterprises
 
-<a href="www.nvidia.com"> NVIDIA </a> is a technology company that designs and manufactures graphics processing units (GPUs) and application programming interfaces. Nvidia is dominating the tech market in many fields of Artificial Intelligence and computing. 
+ [NVIDIA](https://www.nvidia.com/en-us/) is a technology company that designs and manufactures graphics processing units (GPUs) and application programming interfaces. Nvidia is dominating the tech market in many fields of Artificial Intelligence and computing. 
 
 ## Overview
 
