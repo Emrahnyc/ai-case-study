@@ -53,18 +53,18 @@ The remaining 60% of Nvidia’s business are cloud service providers, including 
 ### [Fields](https://www.nvidia.com/en-us/industries/)
 
 The company is in many fields; 
-- **Automotive** , Nvidia powers 30 top automotive vehicle data centers
-- **AI Factories** More than 40,000 AI factories use Nvidia products
-- **Robotics** 1.3 Million developers use Nvidia Jetsons
-- **Healthcare** Monadi Framework is used for AI in medical imaging.
-- **Gaming** More than 200 Million gamers and creators use Nvidia’s GPU.
+- * Automotive , Nvidia powers 30 top automotive vehicle data centers
+- * AI Factories More than 40,000 AI factories use Nvidia products
+- * Robotics 1.3 Million developers use Nvidia Jetsons
+- * Healthcare Monadi Framework is used for AI in medical imaging.
+- * Gaming More than 200 Million gamers and creators use Nvidia’s GPU.
 
 
 ### Innovations
 
-- * Omniverse 2022 : The platform for developing OpenUSD applications for industrial digitalization and physical AI simulation.
-- * Nvidia RTX, 2018: technology is computer graphics, ushering in a new generation of applications that simulate the physical world at unprecedented speeds.
-- * AI, 2012 : transform any enterprise into an AI organization with full-stack innovation across accelerated infrastructure, enterprise-grade software, and AI models.
+- **Omniverse 2022:** The platform for developing OpenUSD applications for industrial digitalization and physical AI simulation.
+- **Nvidia RTX, 2018:** technology is computer graphics, ushering in a new generation of applications that simulate the physical world at unprecedented speeds.
+- **AI, 2012 :** transform any enterprise into an AI organization with full-stack innovation across accelerated infrastructure, enterprise-grade software, and AI models.
 
 ### Competitors
 
