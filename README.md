@@ -67,7 +67,7 @@ The company is in many fields;
 
 ### Competitors
 
-Advanced Micro Devices AMD, Intel, Alphabet, and Apple are the major competitors of Nvidia. 
+[Advanced Micro Devices AMD[(https://www.amd.com/en.html)], [Intel[(https://www.intel.com/content/www/us/en/homepage.html)], [Alphabet INC](https://abc.xyz/), and [Apple](https://www.apple.com/) are the major competitors of Nvidia. 
 
 
 
