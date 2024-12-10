@@ -15,7 +15,7 @@ Nvidia is a technology company that designs and manufactures graphics processing
 
 ## Business Activities
 
-# Challenges
+## Challenges
 
 Nvidia dominates the AI Chip market in the industry today. Their emerging challenge is demand is much bigger than supply. 
 
