@@ -1,4 +1,6 @@
 
+<p align ="center">
+<img src="https://blog.adobe.com/en/publish/2020/05/14/media_1acd5784ccb9c7f8e6216341e21cf25eb9b3f715f.png?width=2000&format=webply&optimize=medium" width="300">
 
 
 # NVIDIA | AI Solutions for Enterprises
@@ -60,9 +62,9 @@ The company is in many fields;
 
 ### Innovations
 
-*   >Omniverse 2022 : The platform for developing OpenUSD applications for industrial digitalization and physical AI simulation.
-*   >Nvidia RTX, 2018: technology is computer graphics, ushering in a new generation of applications that simulate the physical world at unprecedented speeds.
-*   >AI, 2012 : transform any enterprise into an AI organization with full-stack innovation across accelerated infrastructure, enterprise-grade software, and AI models.
+- * Omniverse 2022 : The platform for developing OpenUSD applications for industrial digitalization and physical AI simulation.
+- * Nvidia RTX, 2018: technology is computer graphics, ushering in a new generation of applications that simulate the physical world at unprecedented speeds.
+- * AI, 2012 : transform any enterprise into an AI organization with full-stack innovation across accelerated infrastructure, enterprise-grade software, and AI models.
 
 ### Competitors
 
@@ -74,7 +76,7 @@ The company is in many fields;
 - The company has a huge impact on AI and technology industry. 
 - They are dominating today’s AI field with their products and innovations and helping other factories build and improve AI systems.
 - Sustainable Governance, Societal Impact, Climate and Efficiency, people diversity, and Inclusion are the main business metrics that lead to the success of this company.
-- Nvidia has a stronger financial position compared to its top four competitors. They perfumed significantly better revenue growth and market share, especially in high-performance computing and the AI chip market.
+- Nvidia has a stronger financial position compared to its top four competitors. They performed significantly better revenue growth and market share, especially in high-performance computing and the AI chip market.
 
 
 ## Recommendations
