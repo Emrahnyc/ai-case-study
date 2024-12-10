@@ -2,7 +2,7 @@
 AI Case Study for Nvidia
 #NVIDIA | AI Solutions for Enterprises
 
-Nvidia is a technology company that designs and manufactures graphics processing units (GPUs) and application programming interfaces. Nvidia is dominating the tech market in many fields of Artificial Intelligence and computing. 
+[<Nvidia>] (<https://www.nvidia.com/en-us/>) is a technology company that designs and manufactures graphics processing units (GPUs) and application programming interfaces. Nvidia is dominating the tech market in many fields of Artificial Intelligence and computing. 
 
 ## Overview
 
@@ -15,7 +15,7 @@ Nvidia is a technology company that designs and manufactures graphics processing
 
 ## Business Activities
 
-## Challenges
+# Challenges
 
 Nvidia dominates the AI Chip market in the industry today. Their emerging challenge is demand is much bigger than supply. 
 
@@ -39,17 +39,16 @@ TESLA is one of Nvidia’s major clients.EV maker uses AI computing to train bot
 
 # Technology
 
-It is an optimized environment for running the Deep Learning, Data Science, and HPC containers available from NVIDIA's NGC Catalog. The Docker containers available on the NGC Catalog are tuned, tested, and certified by NVIDIA to take full advantage of NVIDIA Ampere, Volta, and Turing Tensor Cores, the driving force behind artificial intelligence. Deep Learning, Data Science, and HPC containers from the NGC Catalog require this AMI for the best GPU acceleration on AWS P4D, P3, and G4 instances.
-NVIDIA Deep Learning AMI is a tool in the Machine Learning Tools category of a tech stack
-
-Provides AI researchers with fast and easy access to NVIDIA A100, V100, and T4 GPUs in the cloud, with performance-engineered deep learning framework containers that are fully integrated, optimized, and certified by NVIDIA
-NVIDIA accelerates innovation by eliminating the complex do-it-yourself task of building and optimizing a complete deep-learning software stack tuned specifically for GPUs
-Optimized for highest performance across a wide range of workloads on NVIDIA GPUs
+- It is an optimized environment for running the Deep Learning, Data Science, and HPC containers available from NVIDIA's NGC Catalog. The Docker containers available on the NGC Catalog are tuned, tested, and certified by NVIDIA to take full advantage of NVIDIA Ampere, Volta, and Turing Tensor Cores, the driving force behind artificial intelligence. Deep Learning, Data Science, and HPC containers from the NGC Catalog require this AMI for the best GPU acceleration on AWS P4D, P3, and G4 instances.
+- NVIDIA Deep Learning AMI is a tool in the Machine Learning Tools category of a tech stack
+- Provides AI researchers with fast and easy access to NVIDIA A100, V100, and T4 GPUs in the cloud, with performance-engineered deep learning framework containers that are fully integrated, optimized, and certified by NVIDIA
+- NVIDIA accelerates innovation by eliminating the complex do-it-yourself task of building and optimizing a complete deep-learning software stack tuned specifically for GPUs
+- Optimized for highest performance across a wide range of workloads on NVIDIA GPUs
 
 
 ## Landscape
 
-# Fields
+# *Fields
 
 The company is in many fields; 
 - **Automotive** , Nvidia powers 30 top automotive vehicle data centers
